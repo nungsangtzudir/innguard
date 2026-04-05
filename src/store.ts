@@ -5,7 +5,7 @@ import { AppState, UserRole, RoomStatus, HotelSettings } from './types';
 const STORAGE_KEY = 'innguard_hms_data';
 
 const DEFAULT_SETTINGS: HotelSettings = {
-  name: 'VIthotech lodge',
+  name: 'Vithotech lodge',
   address: 'Kohima: Nagaland-797001',
   phone: '+91 80 2222 3333',
   gstin: '29AAAAA0000A1Z5',
