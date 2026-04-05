@@ -5,8 +5,8 @@ import { AppState, UserRole, RoomStatus, HotelSettings } from './types';
 const STORAGE_KEY = 'innguard_hms_data';
 
 const DEFAULT_SETTINGS: HotelSettings = {
-  name: 'Grand Royal Hotel',
-  address: '123 MG Road, Bengaluru, Karnataka, 560001',
+  name: 'VIthotech lodge',
+  address: 'Kohima: Nagaland-797001',
   phone: '+91 80 2222 3333',
   gstin: '29AAAAA0000A1Z5',
   invoiceFooter: 'Thank you for staying with us! Please come again.'
